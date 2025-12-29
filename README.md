@@ -1,5 +1,4 @@
 # Credit-Card-Analysis-SQL-Dashboard
-# Credit Card Fraud Analysis
 
 ## Project Overview
 A complete **Credit Card Fraud Analysis** pipeline that extracts, processes, and visualizes transactional data to identify fraudulent activities. Designed to deliver actionable insights for fraud detection.
