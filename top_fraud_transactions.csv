@@ -1,0 +1,11 @@
+transaction_id,amount,transaction_hour,merchant_category,foreign_category,location_mismathch,device_trust_score,velocity_last_24h,cardholder_age,is_fraud
+9392,1185.07,0,Travel,1,0,98,3,50,1
+2530,1103.19,1,Electronics,0,0,36,0,29,1
+6452,1036.82,0,Electronics,0,0,28,0,20,1
+1728,1028.32,1,Grocery,0,0,27,2,36,1
+1334,1009.55,2,Grocery,0,0,37,0,27,1
+1105,950.41,1,Travel,0,1,70,2,60,1
+1425,776.66,3,Grocery,1,0,32,4,56,1
+5699,745.34,0,Food,1,0,76,5,40,1
+5427,737.06,0,Food,0,1,65,5,51,1
+8041,701.79,2,Travel,1,1,94,1,20,1

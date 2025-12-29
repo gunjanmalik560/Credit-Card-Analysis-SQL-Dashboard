@@ -1,0 +1,5 @@
+age_group,total_transactions,fraud_transactions,fraud_percentage
+41-60,3845,63.0,1.64
+25-40,3098,47.0,1.52
+<25,1337,18.0,1.35
+>60,1720,23.0,1.34
